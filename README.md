@@ -17,3 +17,6 @@ This project is a practice exercise for learning GitHub basics.
 
 #Feature Search
 New Functionality 
+
+## Pagination Feature
+This feature will allow product listings to be shown in multiple pages.
